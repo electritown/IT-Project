@@ -1,0 +1,110 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: white;
+}
+
+.intro {
+    text-align: left;
+    width: 100%;
+    height: 600px;
+    font-family: 'lato';
+    background: url(cover.jpg);
+    text-align: center;
+    vertical-align: middle;
+    line-height: 200px;
+}
+
+.intro h2 {
+    color: #006;
+    padding: 10px;
+}
+
+.intro h1 {
+    color: #ff3333;
+    font-weight: 100;
+    padding: 10px;
+    font-size: 50px;
+    line-height: 46px;
+}
+
+.header {
+    width: 100%;
+    height: 150px;
+    background: url(cropedimg2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.members {
+    text-align: center;
+    width: 300px;
+    padding: 20px;
+    font-family: 'Lato', sans-serif;
+    margin: 25px;
+    margin-top: 30px;
+    transition: all 0.3s;
+    background-color:oldlace;
+    box-shadow: 0px 0px 20px -4px rgba(0,0,0,0.75);
+}
+.members .degree {
+    color: #ff4539;
+    padding: 10px;
+}
+
+.members .name {
+    color: #006;
+    font-family: 'lato', serif;
+    font-weight: 300;
+    padding: 10px;
+}
+.aboutmember{
+    color: #006;
+}
+
+.memberpic {
+    width: 300px;
+    height: 300px;
+    border: 0;
+    border-radius: 150px;
+}
+
+#pic1 {
+    background: url(3abwa7ed.jpg);
+    background-position: 40% 10%;
+    background-size: cover;
+}
+
+#pic2 {
+    background: url(3abmm7md.jpg);
+    background-position: 0% 10%;
+    background-size: cover;
+}
+
+#pic3 {
+    background: url(14072899_271784733208259_1455912990_n.jpg);
+    background-position: 40% 10%;
+    background-size: cover;
+}
+
+#pic4 {
+    background: url(3ab3omr.jpg);
+    background-size: cover;
+}
+
+#pic5 {
+    background: url(3abdel8ani.jpg);
+    background-size: cover;
+}
+
+#pic6 {
+    background: url(3ala2.jpg);
+    background-size: cover;
+}

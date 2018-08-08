@@ -1,0 +1,143 @@
+.tobic
+{
+	margin:80px 80px 10px;
+	text-align:center;
+	font-size:45px;
+	text-transform:capitalize;
+}
+
+.pecture1,.pecture2,.pecture3
+{
+	width:150px;
+	height:150px;
+	border-radius:50%;
+}
+
+.float
+{
+	float:left;
+}
+
+.int
+{
+	font-size:30px;
+	float:right;
+	margin:10px 600px 50px 200px;
+}
+
+.text1,.text2,.text3
+{
+	width:280px;
+	height:140px;
+	padding:10px 15px 0px 10px;
+	background-color:rgba(192,192,192,.1);
+}
+
+
+.pecture1
+{
+	margin:100px 200px 30px 150px;
+}
+.text1
+{
+	margin:10px 30px 30px 80px;
+}
+
+
+
+.pecture2
+{
+	margin:100px 200px 30px 100px;
+}
+.text2
+{
+	margin:10px 100px 30px 30px;
+}
+
+.text3.try.qutation span
+{
+	color:#F00;
+}
+
+
+
+.pecture3
+{
+	margin:100px 50px 30px 100px;
+}
+.text3
+{
+	margin:10px 0px 0px 30px;
+}
+
+.try
+{
+	font-size:20px;
+	letter-spacing:1px;
+}
+
+.mainstart
+{
+	width:170px;
+	height:70px;
+	margin:10px 900px 10px 90px;
+}
+.start5,.start4,.start3,.start2,.start1
+{
+	width:23px;
+	height:15px;
+	margin:2px 5px 2px 100px;
+}
+
+
+.rating5
+{
+	width:250px;
+	height:20px;
+	background-color:rgba(13,99,242,.8);
+	margin:0px 8px 4px 2px;
+	float:left;
+}
+
+.rating4
+{
+	width:80px;
+	height:20px;
+	background-color:rgba(13,99,242,.8);
+	margin:0px 8px 4px 2px;
+	float:left;
+}
+
+.rating3
+{
+	width:20px;
+	height:20px;
+	background-color:rgba(13,99,242,.8);
+	margin:0px 8px 4px 2px;
+	float:left;
+}
+
+.rating2
+{
+	width:16px;
+	height:20px;
+	background-color:rgba(13,99,242,.8);
+	margin:0px 8px 4px 2px;
+	float:left;
+}
+
+.rating1
+{
+	width:5px;
+	height:20px;
+	background-color:rgba(13,99,242,.8);
+	margin:0px 8px 4px 2px;
+	float:left;
+}
+
+
+.num5,.num4,.num3,.num2,.num1
+{
+	Font-weight:bolder;
+	font-size:20px;
+}

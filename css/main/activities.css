@@ -1,0 +1,27 @@
+.outdoor,.nature,.family,.art,.shopping,.concert{
+    width: 400px;
+    font-family: 'lato';
+    transition: 0.3s;
+    padding-bottom: 5px;
+    margin: 10px;
+    box-sizing: border-box;
+    cursor: pointer;
+    color: white;
+}
+
+.outdoor h2,.nature h2, .family h2,.art h2,.shopping h2,.concert h2{
+    color:#c0e0d8;
+    padding: 10px;
+}
+.outdoor img,.nature img, .family img,.art img,.shopping img,.concert img{
+    border: 3px solid lightslategrey;
+    border-radius: 5px;
+    box-sizing: border-box;
+    width: 100%;
+    height: 250px;
+}
+.outdoor:hover,.nature:hover,.family:hover,.art:hover,.shopping:hover,.concert:hover{
+    transform: scale(1.01);
+    background-color: lightslategrey;
+    box-shadow: 3px 1px 34px -2px rgba(0,0,0,0.69);
+}
